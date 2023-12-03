@@ -12,6 +12,8 @@
 
 # print(sum)
 
+#part 2
+
 sum = 0
 
 for line in open(0):
