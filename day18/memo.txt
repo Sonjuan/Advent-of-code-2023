@@ -1,0 +1,5 @@
+in naive (row-col) key, we can not get the right size if the squre has empty hole
+determine ranges are in inner or outer side
+
+shoelace_formula
+pick's theorm
