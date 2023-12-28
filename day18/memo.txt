@@ -1,5 +1,7 @@
 in naive (row-col) key, we can not get the right size if the squre has empty hole
 determine ranges are in inner or outer side
 
-shoelace_formula
-pick's theorm
+1. shoelace_formula, pick's theorm
+
+2. store intervals of coords and determine whether it is on inside or outside.
+keep track of direction of travel
